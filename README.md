@@ -4,10 +4,10 @@ A repository for YOWCT work on the Smart City project.  Includes aspects of Otta
 
 On September 26th, 2017, Dan Monafu sent a YOWCT draft response to the City of Ottawa.  The document, "YOWCT_comments_Smart_City_Strategy_draft.docx" , has been included in this repository.  The background is covered in the email:
 
-> From: Dan Monafu <dan@yowcivictech.ca>
-> Date: Tue, Sep 26, 2017 at 12:36 PM
-> Subject: Re: Smart City Symposium Review Material
-> To: "Eason, Matt" <Matt.Eason@ottawa.ca>
+> From: Dan Monafu <dan@yowcivictech.ca>  
+> Date: Tue, Sep 26, 2017 at 12:36 PM  
+> Subject: Re: Smart City Symposium Review Material  
+> To: "Eason, Matt" <Matt.Eason@ottawa.ca>  
 > Cc: "René de Cotret, Marc" <Marc.RenedeCotret@ottawa.ca>, "Gray, Donna L" <donna.gray@ottawa.ca>, James Chan <james@hubottawa.org>
 >
 > Hello Matt, Marc, and Donna,
